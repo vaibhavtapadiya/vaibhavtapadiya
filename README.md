@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🏫 I’m currently studying ms in cs **at wichita state university**
 
-- 🤔 I’m looking for help **new opportunity that can best suit my profile**
+- 🤔 I’m looking for  **new opportunity that can best suit my profile**
 
 - 🔭 I'm currently exploring **cloud technology services and machine learning**
 
